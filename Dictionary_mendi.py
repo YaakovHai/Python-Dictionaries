@@ -10,5 +10,7 @@ person = {
 # print(person["age"])
 # print(person["course"])
 # print(person["job"])
-print(person["salary"])
-
+person["age"] = 35
+print("Update age:", person["age"] )
+person["job"] = "Senior Developer"
+print("Update job:", person["job"])
