@@ -8,8 +8,6 @@
 person = {
     "name": "mendi",
     "age": 23,
-    "course": "python"
+    "city": "Tel aviv"
 }
-print(person["name"])
-print(person["age"])
-print(person["course"])
+print (person["city"])
