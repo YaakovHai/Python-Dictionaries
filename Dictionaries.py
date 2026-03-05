@@ -11,3 +11,11 @@ person = {
     "city": "Tel aviv"
 }
 print (person["city"])
+
+
+person = {
+    "name": "shalom",
+    "age": 3000,
+    "city": "beeryaakov"
+}
+print (person["city"])
