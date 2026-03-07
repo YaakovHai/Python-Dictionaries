@@ -49,9 +49,9 @@ users = [
     
 ]
 
-# for i in users:
-#     if i ["age"] > 30:
-#      print(f"User over 30: {i["name"]} age: {i["age"]}")
+for i in users:
+    if i ["age"] > 30:
+     print(f"User over 30: {i["name"]} age: {i["age"]}")
 
 users.append({"name": "Noa", "age": 22},)
 
